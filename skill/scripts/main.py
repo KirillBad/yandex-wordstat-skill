@@ -3,7 +3,7 @@ from dataclasses import dataclass
 import typer
 from rich.console import Console
 
-_API_KEY = "YANDEX_WORDSTAT_TOKEN"
+_API_KEY = "YANDEX_WORDSTAT_API_KEY"
 _FOLDER_ID = "YANDEX_CLOUD_FOLDER_ID"
 
 app = typer.Typer(add_completion=False)
