@@ -18,10 +18,13 @@ Set the credentials in the environment where your agent runs:
 
 [How to get API KEY](https://aistudio.yandex.ru/docs/ru/search-api/quickstart/)
 
+```bash
+export YANDEX_WORDSTAT_API_KEY="your-api-key"
+```
+
 [How to get folder id](https://yandex.cloud/en/docs/resource-manager/operations/folder/get-id)
 
 ```bash
-export YANDEX_WORDSTAT_API_KEY="your-api-key"
 export YANDEX_CLOUD_FOLDER_ID="your-folder-id"
 ```
 
