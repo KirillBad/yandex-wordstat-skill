@@ -58,7 +58,7 @@ uv --project scripts run scripts/SCRIPT_NAME.py --region 208
 
 The scripts require these environment variables:
 
-- `YANDEX_WORDSTAT_TOKEN`
+- `YANDEX_WORDSTAT_API_KEY`
 - `YANDEX_CLOUD_FOLDER_ID`
 
 If a script reports that any required environment variable is missing, stop immediately. Tell the user which variable is missing and ask them to configure it before retrying.
