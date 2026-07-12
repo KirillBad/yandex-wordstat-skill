@@ -17,6 +17,7 @@ Use it to retrieve and interpret:
 Set the credentials in the environment where your agent runs:
 
 [How to get API KEY](https://aistudio.yandex.ru/docs/ru/search-api/quickstart/)
+
 [How to get folder id](https://yandex.cloud/en/docs/resource-manager/operations/folder/get-id)
 
 ```bash
